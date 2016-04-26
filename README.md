@@ -1,2 +1,2 @@
-# RFundamentos
-R Fundamentos
+# R Fundamentos
+Data Science Academy - R Fundamentos
